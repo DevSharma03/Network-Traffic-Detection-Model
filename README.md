@@ -67,3 +67,12 @@ Visit http://127.0.0.1:5000 to view the interactive map.
 - Confusion Matrix Heatmap
 - Anomaly Score Distribution
 - Leaflet-based anomaly map
+
+
+## 📜 License
+This project is licensed under the [MIT License](LICENSE).
+
+
+## 📬 Contact
+For any inquiries, feel free to reach out via work.devashishsharma09@gmail.com or open an issue. 
+Let me know if you need any more changes! 🚀😊
