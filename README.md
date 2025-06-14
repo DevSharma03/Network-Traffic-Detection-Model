@@ -20,6 +20,7 @@ A smart anomaly detection system built using R for intelligent network traffic a
 
 ## 📁 Project Structure
 
+``` bash
 Network-Traffic-Detection-Model/
 ├── leaflet_map.html # Generated interactive map
 ├── leaflet_map_files/ # Supporting static assets for the map
@@ -28,6 +29,7 @@ Network-Traffic-Detection-Model/
 ├── templates/
 │ └── index.html # Template HTML file to embed map
 └── README.md # Project documentation
+```
 
 
 ## 🚀 Getting Started
