@@ -1,4 +1,4 @@
-from flask import Flask, render_template, send_file
+from flask import Flask, render_template, send_file 
 import os
 
 app = Flask(__name__, static_folder='leaflet_map_files')
